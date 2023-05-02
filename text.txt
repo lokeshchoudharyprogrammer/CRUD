@@ -1,0 +1,54 @@
+This Is New DataThis Is New Data
+This Is New Data
+This Is New Data
+This Is New Data
+This Is New Data
+
+let fs = require("fs");
+// var s;
+let path = require("path")
+
+// fs.readFile('./text.txt',"utf-8", (err, data) => {
+
+//     err ? console.log(err) : console.log(data)
+// });
+
+// console.log("BYE!!")
+
+// s = fs.readFileSync("./text.txt", "utf-8")
+// let k = console.log(s)
+// k
+
+// fs.readFile("./text.txt", "utf-8", function (err, data) {
+//     console.log(data)
+// })
+
+// readFile('/etc/passwd', (err, data) => {
+//     if (err) throw err;
+//     console.log(data);
+//   });
+
+
+// fs.writeFile("./text.txt", "This Is New Data", (err) => {
+//     err ? console.log("Error") : console.log("Success")
+// })
+
+
+// fs.appendFile("./text.txt", "\nThis Is New Data", (err) =>{
+//     err ? console.log("Error") : console.log("Success")
+// })
+
+// try {
+//     const data = fs.readFileSync("./text.txt","utf-8")
+
+// } catch (error) {
+
+// }
+
+
+// console.log(Number(process.argv[2]+process.argv[3]))
+// // console.log()
+
+
+
+// Day-4
